@@ -1,0 +1,107 @@
+{
+"version": "v0.1.0",
+  "documents": [
+    {
+      "source_section": 1,
+      "title": "项目概述",
+      "file": "docs/01-overview.md",
+      "sha256": "55aac2a306a32c9c442b21947a528d893cfb5cee05b86dfe1192833e496e9562"
+    },
+    {
+      "source_section": 2,
+      "title": "核心理念",
+      "file": "docs/02-principles.md",
+      "sha256": "3552c6e11dd92b2e71e90f1d02d697bffa91b81e68b22fa3c7931af3f54f1f93"
+    },
+    {
+      "source_section": 3,
+      "title": "产品定位",
+      "file": "docs/03-product-positioning.md",
+      "sha256": "2ff3eb85aee588bed6018d80a0765904fcb6c2b00abfd54720916d002e028cc9"
+    },
+    {
+      "source_section": 6,
+      "title": "软件 MVP 功能设计",
+      "file": "docs/06-software-mvp.md",
+      "sha256": "74000894fc242ad7de037f5d75f83244a5853284c94f8d45236d5270294d9b86"
+    },
+    {
+      "source_section": 7,
+      "title": "个人经验数据模型",
+      "file": "docs/07-experience-model.md",
+      "sha256": "3f3be55c0cb4045787a94543729b4f07f2b89a78eeff4ee168d828866338dc47"
+    },
+    {
+      "source_section": 8,
+      "title": "共证式 AI 设计",
+      "file": "docs/08-ai-principles.md",
+      "sha256": "9c95e8d32b08b5a4f387b21ff43fee93f654632c7fb6a98469532d385cc30d81"
+    },
+    {
+      "source_section": 13,
+      "title": "工程实现基础",
+      "file": "docs/13-engineering.md",
+      "sha256": "5cf6fd1d05da69d550fdc8f4130f7ee3fd43c4d2bfdbb4814561ae5e8db6d279"
+    },
+    {
+      "source_section": 14,
+      "title": "数据、接口与安全架构",
+      "file": "docs/14-data-api-security.md",
+      "sha256": "4860b13d8a37b451a1a47aa7ec22be8394c3d726f857be67516b9cb43f91d2a8"
+    },
+    {
+      "source_section": 20,
+      "title": "附录 A：数据库设计",
+      "file": "docs/appendix-a-database.md",
+      "sha256": "9d57520480328cc8471843e58d861d65e800915c78c02cec7992bfe59c3aae2c"
+    },
+    {
+      "source_section": 21,
+      "title": "附录 B：接口设计",
+      "file": "docs/appendix-b-api.md",
+      "sha256": "27ddfca794cf08f65a021990e49ff2c6e6e80f378e451d398f3a6cd35a6f2eea"
+    },
+    {
+      "source_section": 22,
+      "title": "附录 C：工程目录规范",
+      "file": "docs/appendix-c-project-structure.md",
+      "sha256": "c4930f951b5165d5074ba765b9230dd024cb3e73888406f78cc816d2184e0b35"
+    },
+    {
+      "source_section": 24,
+      "title": "附录 E：安全威胁模型",
+      "file": "docs/appendix-e-security.md",
+      "sha256": "2dd1477fcbb2a12c115723b26c673a9b2362401300c93aa867ff62a076bf489f"
+    },
+    {
+      "source_section": 25,
+      "title": "附录 F：AI 行为规范",
+      "file": "docs/appendix-f-ai-behavior.md",
+      "sha256": "1d7a6197c8e5887fc1ecbcda7b465735794eca2b6386e0f13f847507c9e329be"
+    },
+    {
+      "source_section": 26,
+      "title": "附录 G：用户体验规范",
+      "file": "docs/appendix-g-ux.md",
+      "sha256": "c4913e5d45d08613c0194c31413ce5bbda9c1c258131980d46bd4146c9646e3c"
+    },
+    {
+      "source_section": 37,
+      "title": "附录 R：数据治理与隐私",
+      "file": "docs/appendix-r-data-governance.md",
+      "sha256": "1c12502152a029b8a9f2cafeba6fd8aacc8304fde5b34f9c7be7f3125ec0442c"
+    },
+    {
+      "source_section": 39,
+      "title": "附录 T：测试与质量保障",
+      "file": "docs/appendix-t-testing.md",
+      "sha256": "f0eb613a41e5a2ea1ce1a7dc06a3d2935eda44ae9b3e7b9a002b652a0619414e"
+    },
+    {
+      "source_section": 46,
+      "title": "附录 AA：实施基线",
+      "file": "docs/appendix-aa-baseline.md",
+      "sha256": "87f03a48225fdc2b42a4bd1bbd11e6e9348bef7cc021e2c79417c46f9d6f5c86"
+    }
+  ]
+}
